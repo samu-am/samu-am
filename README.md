@@ -37,9 +37,8 @@ Me apasiona la creación de soluciones web creativas y escalables que ayuden a m
 
 Aquí te muestro algunos de mis proyectos más destacados. Para más información, puedes revisar los repositorios correspondientes en Github.
 
-- [Proyecto 1](https://github.com/TuUsuario/proyecto-1): Una aplicación web de comercio electrónico construida con Laravel y Vue.
-- [Proyecto 2](https://github.com/TuUsuario/proyecto-2): Una aplicación web de gestión de proyectos construida con NuxtJs y Vuex.
-- [Proyecto 3](https://github.com/TuUsuario/proyecto-3): Un sitio web de noticias construido con PHP y Postgres.
+- [Feedme](https://github.com/Oriol25/feedme): Una aplicación web donde podremos almacenar productos que existan en la api de https://world.openfoodfacts.org/ construida con Laravel.
+- [Penjat](https://github.com/samu-am/projecte_penjat): Un juego derivado del "Ahorcado" desarrollado en NuxtJs.
 
 ## Contacto
 
