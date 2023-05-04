@@ -46,7 +46,7 @@ Aquí te muestro algunos de mis proyectos más destacados. Para más informació
 Si estás interesado en trabajar conmigo o simplemente quieres conectarte, no dudes en contactarme a través de mi correo electrónico o mis perfiles de redes sociales.
 
 - Correo electrónico: [samu.araujo.mora@gmail.com](mailto:samu.araujo.mora@gmail.com)
-- LinkedIn: [Tu usuario de LinkedIn](https://www.linkedin.com/in/samuel-araujo-a5a7b8227/)
+- LinkedIn: [Samuel Araujo](https://www.linkedin.com/in/samuel-araujo-a5a7b8227/)
 
 ¡Gracias por visitar mi perfil de Github!
 
