@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 # Hola, soy Samuel 👋
 
-![Desarrollador web](https://i.imgur.com/nDqPyrM.png)
 
 Soy un desarrollador web con experiencia en tecnologías como Laravel, PHP, JavaScript, Vue, Vuex, NuxtJs, MYSQL, Postgres y otras herramientas y tecnologías relacionadas. 
 
