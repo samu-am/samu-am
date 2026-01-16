@@ -17,13 +17,18 @@ Me apasiona la creación de soluciones web creativas y escalables que ayuden a m
 - **NuxtJs**: He utilizado NuxtJs para la creación de aplicaciones web de una sola página.
 - **MYSQL**: Tengo experiencia en el manejo de bases de datos relacionales y he utilizado MYSQL para la creación y gestión de bases de datos en varios proyectos.
 - **Postgres**: He trabajado con Postgres en proyectos más grandes y complejos.
+- **Golang + Pocketbase**: He desarrollado APIs completas utilizando Golang junto a Pocketbase como backend ligero y rápido.
+- **Svelte**: He construido frontends con Svelte, aprovechando su simplicidad, rendimiento y enfoque reactivo.
 
 ## Mis proyectos
 
 Aquí te muestro algunos de mis proyectos más destacados. Para más información, puedes revisar los repositorios correspondientes en Github.
 
+- 🌐 **Madflow**: Plataforma principal — https://madflow.io/
+- 🚀 **Satflow**: SaaS orientado a la gestión y automatización — https://satflow.madflow.io/
+- 📚 **Studyflow**: SaaS enfocado en productividad y estudio — https://studyflow.madflow.io/
+
 - [Feedme](https://github.com/Oriol25/feedme): Una aplicación web donde podremos almacenar productos que existan en la api de https://world.openfoodfacts.org/ construida con Laravel.
-- [Penjat](https://github.com/samu-am/projecte_penjat): Un juego derivado del "Ahorcado" desarrollado en NuxtJs.
 
 ## Contacto
 
